@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100vh;
+    background: linear-gradient(
+        to top,
+        #f4f7f6 0%,
+        #f4f7f6 70%,
+        #192028 70%,
+        #192028 100%
+    )
+}
+
+a {
+    color: #939494;
+    text-decoration: none;
+}
+
+.box {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);  
+   /* margin: auto;*/
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 24px;
+
+}
+
+
+
+ .box input[type="submit"] {
+    border: 0;
+    background-color: #8a2432;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #8a2432;
+    padding: 10px 10px;
+    width: 400px;
+    color: white;
+    border-radius: 24px;
+} 
+
+.enter input {
+    border: 0;
+    background-color: none;
+    display: block;
+    margin: 20px auto;
+    text-align: left;
+    border: 2px solid #dcdfe4;
+    padding: 10px 10px;
+    width: 380px;
+    color: black;
+    border-radius: 24px;
+}
+
+p {
+    text-align: center;
+    color : #939494;
+    margin-top: 520px;
+}
+
+img {
+    width: 12%;
+    display: block;
+    margin: 20px auto;
+
+}
+
+/*.submit {
+    border: 0;
+    background-color:#8a2432 ;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px ;
+    padding: 5px 5px;
+    width: 375px;
+    border-radius: 24px;
+    outline: none;
+}
+
+.box input [type="submit"] {
+    border: 0;
+    background-color: none;
+    display: block;
+    margin: 20px auto;
+    text-align: left;
+    border: 2px solid #dcdfe4;
+    padding: 5px 5px;
+    width: 375px;
+    color: black;
+    border-radius: 24px;
+}
+
+    .box input [type="text"],.box input [type="password"] {
+    border: 0;
+    display:block;
+    margin: 20px auto;
+    text-align: left;
+    border: 2px solid #dcdfe4;
+    padding: 5px 5px;
+    width: 375px;
+    color: black;
+    border-radius: 24px;
+
+    .box input [type="text"],.box input [type="password"] {
+    border: 0;
+    display:block;
+    margin: 20px auto;
+    text-align: left;
+    border: 2px solid #dcdfe4;
+    padding: 5px 5px;
+    width: 375px;
+    color: black;
+    border-radius: 24px;
+    
+}*/
